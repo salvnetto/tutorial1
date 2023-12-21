@@ -1,0 +1,9 @@
+
+```{r}
+library(devtools)
+```
+
+```{r}
+use_git()
+```
+
