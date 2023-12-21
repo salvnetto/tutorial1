@@ -32,3 +32,13 @@ exists("strsplit1", where = globalenv(), inherits = FALSE)
 #> [1] FALSE
 ```
 
+```{r}
+check()
+```
+```{r}
+use_mit_license()
+```
+```{r}
+document()
+```
+
